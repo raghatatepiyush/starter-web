@@ -1,0 +1,5 @@
+To iterate is human, to recurse divine. 
+(L. Peter Deutsch) Ready, fire, aim: the fast approach to software development. 
+Ready, aim, aim, aim, aim: the slow approach to software development. 
+(Anonymous) Software is like sex: It’s better when it’s free. 
+(Linus Torvalds) It’s not a bug – it’s an undocumented feature. (Anonymous)
