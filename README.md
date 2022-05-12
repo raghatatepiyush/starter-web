@@ -14,6 +14,8 @@ This is purpose. More purpose
 
 ## How to Contribute
 
+Please fork this repository
+
 ##Copyright
 2014 git. training
 more git training checkout
