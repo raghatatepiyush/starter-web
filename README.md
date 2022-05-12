@@ -13,3 +13,6 @@ This is purpose. More purpose
 ## Deployment
 
 ## How to Contribute
+
+##Copyright
+2014 git. training
