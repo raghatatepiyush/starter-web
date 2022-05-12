@@ -16,3 +16,4 @@ This is purpose. More purpose
 
 ##Copyright
 2014 git. training
+more git training checkout
