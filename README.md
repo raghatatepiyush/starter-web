@@ -2,7 +2,7 @@
 
 This is a simple website project.
 
-Adding a line for rebasing testing
+Adding a line for rebasing testing. More changes from feature branch.
 
 ## Introduction
 
